@@ -44,4 +44,4 @@ left corner and the tray and clock at the right edge, and only the app icons sli
 
 If you enjoy DynamicDock, you can support it here:
 
-<a href="https://buymeacoffee.com/dockalc"><img src="public/yellow-button.png" alt="Buy me a coffee" height="50"></a>
+[☕ Buy me a coffee](https://www.buymeacoffee.com/dockalc)
