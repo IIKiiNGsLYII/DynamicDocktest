@@ -5,7 +5,9 @@ the taskbar appears or slides the icons to your mouse **right where your mouse t
 
 This is still the real Windows taskbar, so everything works like normal: jump lists (right-click), hover thumbnails, badges, drag and drop, the tray and the clock.
 
-![DynamicDock in action](https://github.com/IIKiiNGsLYII/DynamicDock/blob/main/DynamicDock-with-mods.gif?raw=true)
+![DynamicDock in action1](https://github.com/IIKiiNGsLYII/DynamicDock/blob/main/DynamicDock-default-taskbar.gif?raw=true)
+
+![DynamicDock in action2](https://github.com/IIKiiNGsLYII/DynamicDock/blob/main/DynamicDock-with-mods.gif?raw=true)
 
 ## Bottom taskbars (works with auto-hide or always visible)
 1. If you want to use with auto hide.
