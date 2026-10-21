@@ -40,14 +40,8 @@ left corner and the tray and clock at the right edge, and only the app icons sli
   is recommended: it removes Windows' delay before the taskbar pops up.
 - Windows 11 only.  
 
-## Troubleshooting (Try this if things are not working correctly)
-- **The bar doesn't move, or the taskbar looks stuck in a moved position:** turn
-  DynamicDock off and on again in Windhawk. If that doesn't fix it, restart
-  Explorer: open Task Manager, search for **Windows Explorer**, right-click **Windows Explorer** and choose
-  **Restart**. This rebuilds the taskbar from scratch (it also closes open File
-  Explorer windows). You may need to tap your windows key on the keyboard for the taskbar to reappear. Then return to windhawk and toggle your mods on/off as needed to function properly.
-- After installing or updating the mod, the first touch of the screen edge can
-  take a moment while DynamicDock finds the taskbar.
-- To report a problem, turn on **Debug logging** on the mod's Advanced tab,
-  reproduce it, and share the lines from the mod's log. You should see logs being created as you tap the screen edge in different places.
-*/
+## Support
+
+If you enjoy DynamicDock, you can support it here:
+
+<a href="https://buymeacoffee.com/dockalc"><img src="public/yellow-button.png" alt="Buy me a coffee" height="50"></a>
