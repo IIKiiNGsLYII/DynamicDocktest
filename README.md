@@ -1,16 +1,3 @@
-// ==WindhawkMod==
-// @id              dynamicdock
-// @name            DynamicDock
-// @description     For Ultrawide Monitors: Force the taskbar to follow your mouse when it touches the edge and your icons will be centered on your mouse. Works with default and modded taskbars.
-// @version         1.0
-// @author          IIKiiNGsLYII
-// @include         explorer.exe
-// @architecture    x86-64
-// @compilerOptions -lole32 -loleaut32 -lruntimeobject -luuid
-// ==/WindhawkMod==
-
-// ==WindhawkModReadme==
-/*
 # DynamicDock
 
 Best for use with ultrawide monitors, but works on any monitor. Instead of the taskbar popping up in the middle of the screen, 
